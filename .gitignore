@@ -11,9 +11,10 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 #IDE
-**.DS_Store
+**/.DS_Store
 **/.idea/**
 **/out/
+**/.iml
 
 # Package Files #
 *.jar
